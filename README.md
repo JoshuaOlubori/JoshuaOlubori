@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JoshuaOlubori
-- 👀 I do data analytics, AI/ML and webdev
+- 👀 I do data engineering and analytics
 - 🌱 I’m currently learning cloud computing 
 - 📫 You can reach me via joshuaolubori@gmail.com
 
