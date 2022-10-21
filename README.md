@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JoshuaOlubori, an environmental engineering student
-- 👀 I do data engineering, analytics and webdev
+- 👀 I do data science and webdev
 - 🌱 I’m currently learning cloud computing 
 - 📫 You can reach me via joshuaolubori@gmail.com
 
