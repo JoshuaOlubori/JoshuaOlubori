@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @JoshuaOlubori, an environmental engineering student
+- 👋 Hi, I’m @JoshuaOlubori, an environmental engineering student who loves to write code.
 - 👀 I do data science and webdev
-- 🌱 I’m currently learning cloud computing 
+- 🌱 I’m currently learning cloud computing under the auspices of Google Africa Developers Scholarship 
 - 📫 You can reach me via joshuaolubori@gmail.com
 
 <!---
