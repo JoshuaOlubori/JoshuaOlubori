@@ -1,9 +1,27 @@
-- 👋 Hi, I’m @JoshuaOlubori, an environmental engineering student who loves to write code.
-- 👀 I do data science and webdev
-- 🌱 I’m currently learning cloud computing under the auspices of Google Africa Developers Scholarship 
-- 📫 You can reach me via joshuaolubori@gmail.com
+# **Hi there!** 👋🏼
+I’m Joshua, an aspiring data analyst with a environmental engineering study background. I enjoy working with numbers and setting data free from the confines of spreadsheets and tables! I'm currently transitioning to data since January 2021.
 
-<!---
-JoshuaOlubori/JoshuaOlubori is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 📚 **Currently Courses and Certifications**
+- [Google Data Analytics](https://coursera.org/share/8a35ef7a5a2b72c40624bf6394bdec31)
+- Technical University of Denmark: Global Environment Management
+- Udacity: Data Analytics Nanodegree
+- Udacity: Python Programming Foundations
+
+
+### 📂 **Projects**
+- [**Here's**](https://joshuaolubori.github.io/) **my portfolio**
+- [COVID-19 in Nigeria](https://github.com/JoshuaOlubori/Data-Science-Analytics-Portfolio-Projects/tree/main/Covid_19_in_Nigeria)
+
+### 💻 **Competencies**
+- Data preparation, data manipulation, and data cleansing
+- Exploratory data analysis
+- Statistical Methods
+- Data Visualization
+- Machine learning: supervised and unsupervised
+
+### 🪛 **Tools**
+- Excel/spreadsheets
+- SQL (Postgresql, MySQL, SQL Server)
+- Python (Library: numpy, pandas, SciPy, sklearn)
+- Visualization: Tableau, matplotlib, seaborn
+- Streamlit
