@@ -9,7 +9,7 @@ I’m Joshua, an aspiring data analyst with a environmental engineering study ba
 
 
 ### 📂 **Projects**
-- [**Here's**](https://joshuaolubori.github.io/) **my portfolio**
+- [**Here's**](https://joshuaolubori.github.io/portfolio-react1/#home) **my portfolio**
 - [COVID-19 in Nigeria](https://github.com/JoshuaOlubori/Data-Science-Analytics-Portfolio-Projects/tree/main/Covid_19_in_Nigeria)
 
 ### 💻 **Competencies**
