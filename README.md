@@ -9,7 +9,7 @@ I’m Joshua, an aspiring data analyst with a environmental engineering study ba
 
 
 ### 📂 **Projects**
-- [**Here's**](https://joshuaolubori.github.io/portfolio-react1/#portfolio) **my full portfolio**
+- [**Click here**](https://joshuaolubori.github.io/portfolio-react1/#portfolio) **to view my full portfolio**
 
 | Project | Demo   | Code   |
 | :-----: | :---: | :---: |
