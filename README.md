@@ -10,8 +10,11 @@ I’m Joshua, an aspiring data analyst with a environmental engineering study ba
 
 ### 📂 **Projects**
 - [**Here's**](https://joshuaolubori.github.io/portfolio-react1/#portfolio) **my full portfolio**
-- [COVID-19 in Nigeria](https://public.tableau.com/app/profile/joshua1294/viz/Covid-19InNigeria/Dashboard)
-- [Designing a Tableau Dashboard for Call Center Insights](https://public.tableau.com/views/pwc-call-centre-trends/Dashboard?:language=en-GB&:display_count=n&:origin=viz_share_link)
+
+| Project | Demo   | Code   |
+| :-----: | :---: | :---: |
+| COVID-19 in Nigeria | https://public.tableau.com/app/profile/joshua1294/viz/Covid-19InNigeria/Dashboard   | https://joshuaolubori.github.io/portfolio-react1/#1  |
+| Designing a Tableau Dashboard for Call Center Insights | https://public.tableau.com/views/pwc-call-centre-trends/Dashboard?:language=en-GB&:display_count=n&:origin=viz_share_link   |  -   |
 
 ### 💻 **Competencies**
 - Data preparation, data manipulation, and data cleansing
