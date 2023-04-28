@@ -13,7 +13,7 @@ I’m Joshua, an aspiring data analyst with a environmental engineering study ba
 
 | Project | Demo   | Code   |
 | :-----: | :---: | :---: |
-| COVID-19 in Nigeria | https://public.tableau.com/app/profile/joshua1294/viz/Covid-19InNigeria/Dashboard   | https://joshuaolubori.github.io/portfolio-react1/#1  |
+| COVID-19 in Nigeria | https://public.tableau.com/app/profile/joshua1294/viz/Covid-19InNigeria/Dashboard   | https://github.com/JoshuaOlubori/Covid19-in-Nigeria/blob/b5e1c93c7818a3f435dd4683df1b2c7fd97931ef/nga_covid19.ipynb  |
 | Designing a Tableau Dashboard for Call Center Insights | https://public.tableau.com/views/pwc-call-centre-trends/Dashboard?:language=en-GB&:display_count=n&:origin=viz_share_link   |  -   |
 
 ### 💻 **Competencies**
@@ -25,7 +25,8 @@ I’m Joshua, an aspiring data analyst with a environmental engineering study ba
 
 ### 🪛 **Tools**
 - Excel/spreadsheets
-- SQL (Postgresql, MySQL, SQL Server)
+- SQL (Postgresql, MySQL, SQL Server, MongoDB)
 - Python (Library: numpy, pandas, SciPy, sklearn)
+- Frameworks: Django, Flask, FastAPI
 - Visualization: Tableau, matplotlib, seaborn
 - Streamlit
