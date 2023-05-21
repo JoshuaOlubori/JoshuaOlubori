@@ -14,7 +14,7 @@ Transitioning to data since January 2021.
 
 
 ### 📂 **Projects**
-- [**Click here**](https://joshuaolubori.github.io/portfolio-react1/#portfolio) **to view my full portfolio**
+#### [**Click here**](https://joshuaolubori.github.io/portfolio-react1/#portfolio) **to view my full portfolio**
 
 | Project | Demo   | Code   |
 | :----- | :--- | :--- |
