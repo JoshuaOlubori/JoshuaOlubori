@@ -24,7 +24,7 @@ Transitioning to data since January 2021.
 
 ### 💻 **Competencies**
 - [x] Data cleansing
-- [ ] Dimensional modelling
+- [x] Dimensional modelling
 - [x] Exploratory data analysis
 - [x] Statistical Methods
 - [x] Data Visualization
@@ -49,9 +49,4 @@ Transitioning to data since January 2021.
 ![scikit-learn](https://img.shields.io/static/v1?style=for-the-badge&message=scikit-learn&color=222222&logo=scikit-learn&logoColor=F7931E&label=)
 ![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=)
 ![Canva](https://img.shields.io/static/v1?style=for-the-badge&message=Canva&color=222222&logo=Canva&logoColor=00C4CC&label=)
-
--  Excel/spreadsheets
-- SQL (Postgresql, MySQL, SQL Server, MongoDB)
-- Python (Library: numpy, pandas, SciPy, sklearn)
-- Frameworks: Django, Flask, FastAPI
-- Visualization: Tableau, matplotlib, seaborn
+![Jupyter](https://img.shields.io/static/v1?style=for-the-badge&message=Jupyter&color=F37626&logo=Jupyter&logoColor=FFFFFF&label=)
