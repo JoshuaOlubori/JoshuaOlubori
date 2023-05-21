@@ -30,6 +30,10 @@ Transitioning to data since January 2021.
 - [x] Machine learning
 
 ### 🪛 **Tools**
+![Microsoft Excel](https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+Excel&color=217346&logo=Microsoft+Excel&logoColor=FFFFFF&label=)
+![Power BI](https://img.shields.io/static/v1?style=for-the-badge&message=Power+BI&color=222222&logo=Power+BI&logoColor=F2C811&label=)
+![Power Apps](https://img.shields.io/static/v1?style=for-the-badge&message=Power+Apps&color=742774&logo=Power+Apps&logoColor=FFFFFF&label=)
+![PostgreSQL](https://img.shields.io/static/v1?style=for-the-badge&message=PostgreSQL&color=4169E1&logo=PostgreSQL&logoColor=FFFFFF&label=)
 ![MongoDB](https://img.shields.io/static/v1?style=for-the-badge&message=MongoDB&color=47A248&logo=MongoDB&logoColor=FFFFFF&label=)
 - Excel/spreadsheets
 - SQL (Postgresql, MySQL, SQL Server, MongoDB)
