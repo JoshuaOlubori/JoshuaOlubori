@@ -2,7 +2,7 @@
 I’m Joshua, a data analyst with a environmental engineering background. I enjoy working with numbers, setting data free from the confines of spreadsheets and tables!
 Transitioning to data since January 2021.
 
-[click to view resume](https://drive.google.com/file/d/1PzG0eBK8h1NkHVb_wgc5Itl8uzD7MOAm/view?usp=share_link)
+[click to view resume](https://www.canva.com/design/DAFf_bZ45_Q/v3LzMpphu8I_MrwTWf8veQ/edit?utm_content=DAFf_bZ45_Q&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ### 📚 **Courses and Certifications**
 - B.Engr., First Class (Federal University of Agriculture, Abeokuta)
