@@ -18,12 +18,14 @@ I’m Joshua, an aspiring data analyst with a environmental engineering study ba
 | Designing a Tableau Dashboard for Call Center Insights | [Tableau demo](https://public.tableau.com/views/pwc-call-centre-trends/Dashboard?:language=en-GB&:display_count=n&:origin=viz_share_link)   |  -   |
 | HR Insights with MySQL and PowerBI | [demo](https://joshuaolubori.my.canva.site/project-001)  |  [code](https://joshuaolubori.my.canva.site/project-001)   |
 | UK Road Accidents and Casualties Tracking Dasboard | [demo](https://github.com/JoshuaOlubori/UK-Road-Accident-Casualties) | |
+| High School Admin App | [code](https://github.com/JoshuaOlubori/chief-cornerstone-high-school-db-app) | |
+
 ### 💻 **Competencies**
-- Data preparation, data manipulation, and data cleansing
-- Exploratory data analysis
-- Statistical Methods
-- Data Visualization
-- Machine learning: supervised and unsupervised
+- [x] Data cleansing
+- [x] Exploratory data analysis
+- [x] Statistical Methods
+- [x] Data Visualization
+- [x] Machine learning
 
 ### 🪛 **Tools**
 ![MongoDB](https://img.shields.io/static/v1?style=for-the-badge&message=MongoDB&color=47A248&logo=MongoDB&logoColor=FFFFFF&label=)
