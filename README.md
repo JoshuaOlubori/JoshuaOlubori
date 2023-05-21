@@ -24,6 +24,7 @@ Transitioning to data since January 2021.
 
 ### 💻 **Competencies**
 - [x] Data cleansing
+- [ ] Dimensional modelling
 - [x] Exploratory data analysis
 - [x] Statistical Methods
 - [x] Data Visualization
@@ -35,9 +36,11 @@ Transitioning to data since January 2021.
 ![Power Apps](https://img.shields.io/static/v1?style=for-the-badge&message=Power+Apps&color=742774&logo=Power+Apps&logoColor=FFFFFF&label=)
 ![PostgreSQL](https://img.shields.io/static/v1?style=for-the-badge&message=PostgreSQL&color=4169E1&logo=PostgreSQL&logoColor=FFFFFF&label=)
 ![MongoDB](https://img.shields.io/static/v1?style=for-the-badge&message=MongoDB&color=47A248&logo=MongoDB&logoColor=FFFFFF&label=)
-- Excel/spreadsheets
+![MySQL](https://img.shields.io/static/v1?style=for-the-badge&message=MySQL&color=4479A1&logo=MySQL&logoColor=FFFFFF&label=)
+![Tableau](https://img.shields.io/static/v1?style=for-the- badge&message=Tableau&color=E97627&logo=Tableau&logoColor=FFFFFF&label=)
+
+-  Excel/spreadsheets
 - SQL (Postgresql, MySQL, SQL Server, MongoDB)
 - Python (Library: numpy, pandas, SciPy, sklearn)
 - Frameworks: Django, Flask, FastAPI
 - Visualization: Tableau, matplotlib, seaborn
-- Streamlit
