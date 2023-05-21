@@ -6,6 +6,7 @@ I’m Joshua, an aspiring data analyst with a environmental engineering study ba
 - Technical University of Denmark: Global Environment Management
 - Udacity: Data Analytics Nanodegree
 - Udacity: Python Programming Foundations
+- [The Room Fellowship](https://www.theroom.com)
 
 
 ### 📂 **Projects**
@@ -25,6 +26,7 @@ I’m Joshua, an aspiring data analyst with a environmental engineering study ba
 - Machine learning: supervised and unsupervised
 
 ### 🪛 **Tools**
+![MongoDB](https://img.shields.io/static/v1?style=for-the-badge&message=MongoDB&color=47A248&logo=MongoDB&logoColor=FFFFFF&label=)
 - Excel/spreadsheets
 - SQL (Postgresql, MySQL, SQL Server, MongoDB)
 - Python (Library: numpy, pandas, SciPy, sklearn)
