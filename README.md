@@ -1,7 +1,9 @@
 # **Hi there!** 👋🏼
-I’m Joshua, an aspiring data analyst with a environmental engineering study background. I enjoy working with numbers and setting data free from the confines of spreadsheets and tables! I'm currently transitioning to data since January 2021.
+I’m Joshua, a data analyst with a environmental engineering background. I enjoy working with numbers, setting data free from the confines of spreadsheets and tables!
+Transitioning to data since January 2021.
 
 ### 📚 **Courses and Certifications**
+- B.Engr., First Class (Federal University of Agriculture, Abeokuta)
 - [Google Data Analytics](https://coursera.org/share/8a35ef7a5a2b72c40624bf6394bdec31)
 - Technical University of Denmark: Global Environment Management
 - Udacity: Data Analytics Nanodegree
