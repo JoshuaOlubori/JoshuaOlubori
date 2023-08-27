@@ -21,7 +21,7 @@ Transitioning to data since January 2021.
 | COVID-19 in Nigeria | [Tableau demo](https://public.tableau.com/app/profile/joshua1294/viz/Covid-19InNigeria/Dashboard)   | [code](https://github.com/JoshuaOlubori/Covid19-in-Nigeria/blob/b5e1c93c7818a3f435dd4683df1b2c7fd97931ef/nga_covid19.ipynb)  |
 | Designing a Tableau Dashboard for Call Center Insights | [Tableau demo](https://public.tableau.com/views/pwc-call-centre-trends/Dashboard?:language=en-GB&:display_count=n&:origin=viz_share_link)   |  -   |
 | HR Insights with MySQL and PowerBI | [demo](https://joshuaolubori.my.canva.site/project-001)  |  [code](https://joshuaolubori.my.canva.site/project-001)   |
-| UK Road Accidents and Casualties Tracking Dasboard | [demo](https://github.com/JoshuaOlubori/UK-Road-Accident-Casualties) | |
+| UK Road Accidents and Casualties Tracking Dasboard | [ Live demo](https://app.powerbi.com/view?r=eyJrIjoiNzEwMmY3OWMtNmU3Zi00ZWU3LWFkNmYtYjQ1NGMwZjBjNjNiIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&embedImagePlaceholder=true) | |
 | High School Admin App | [code](https://github.com/JoshuaOlubori/chief-cornerstone-high-school-db-app) | |
 
 ### 💻 **Competencies**
