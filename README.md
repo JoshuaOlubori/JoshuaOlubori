@@ -1,3 +1,7 @@
+<p align="center">
+  <img alt="Coding GIF" width="300" height="auto" src="coding-gif.gif"/>
+</p>
+
 # **Hi there!** 👋🏼
 I’m Joshua, a analytics engineer with an environmental engineering background. I enjoy working with numbers, setting data free from the confines of spreadsheets and tables!
 Transitioning to data since January 2021.
