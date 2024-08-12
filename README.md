@@ -44,3 +44,15 @@ Transitioning to data since January 2021.
 ![Canva](https://img.shields.io/static/v1?style=for-the-badge&message=Canva&color=222222&logo=Canva&logoColor=00C4CC&label=)
 ![Jupyter](https://img.shields.io/static/v1?style=for-the-badge&message=Jupyter&color=F37626&logo=Jupyter&logoColor=FFFFFF&label=)
 ![Apache Airflow](https://img.shields.io/static/v1?style=for-the-badge&message=Apache+Airflow&color=017CEE&logo=Apache+Airflowr&logoColor=FFFFFF&label=)
+
+### GitHub Profile Summary Cards:
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=JoshuaOlubori&show_icons=true&locale=en&layout=pie&theme=vue" alt="JoshuaOlubori" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=JoshuaOlubori&show_icons=true&locale=en&theme=vue" alt="waltberry" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JoshuaOlubori&" alt="waltberry" /></p>
+
+
+![GitHub Profile Summary Cards](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoshuaOlubori&theme=vue)
+![GitHub Repos Card](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JoshuaOlubori&theme=vue)
+![GitHub Commits Card](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JoshuaOlubori&theme=vye)
+
+
