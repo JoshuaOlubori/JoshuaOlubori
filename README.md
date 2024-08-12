@@ -51,7 +51,7 @@ Transitioning to data since January 2021.
 
 ### GitHub Profile Summary Cards:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=JoshuaOlubori&show_icons=true&locale=en&layout=pie&theme=vue" alt="JoshuaOlubori" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=JoshuaOlubori&show_icons=true&locale=en&theme=vue" alt="waltberry" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=JoshuaOlubori&show_icons=true&locale=en&theme=vue" alt="waltberry" /></p> -->
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JoshuaOlubori&" alt="waltberry" /></p>
 
 
