@@ -53,6 +53,6 @@ Transitioning to data since January 2021.
 
 ![GitHub Profile Summary Cards](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoshuaOlubori&theme=vue)
 ![GitHub Repos Card](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JoshuaOlubori&theme=vue)
-![GitHub Commits Card](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JoshuaOlubori&theme=vye)
+![GitHub Commits Card](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JoshuaOlubori&theme=vue)
 
 
