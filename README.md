@@ -4,7 +4,9 @@
 
 # **Hi there!** 👋🏼
 I’m Joshua, a analytics engineer with an environmental engineering background. I enjoy working with numbers, setting data free from the confines of spreadsheets and tables!
-Transitioning to data since January 2021.
+Working in data since January 2021.
+
+A detailed profile is on my [Linkedin](https://www.linkedin.com/in/joshua-edun/).
 
 
 ### 📚 **Courses and Certifications**
